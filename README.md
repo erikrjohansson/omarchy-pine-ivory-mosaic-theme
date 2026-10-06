@@ -11,7 +11,7 @@ Deep pine mosaic tiles, warm ivory motifs, and sage interface accents. A dark th
 For **Omarchy 4 with Omarchy Shell**:
 
 ```sh
-omarchy theme install https://github.com/ejuro/omarchy-pine-ivory-mosaic-theme
+omarchy theme install https://github.com/erikrjohansson/omarchy-pine-ivory-mosaic-theme
 ```
 
 Use `omarchy theme bg next` to switch between the logo and wordmark wallpapers.
