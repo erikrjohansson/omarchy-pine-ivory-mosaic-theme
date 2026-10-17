@@ -4,8 +4,6 @@ Deep pine mosaic tiles, warm ivory motifs, and sage interface accents. A dark th
 
 ![Pine Ivory Mosaic — desktop preview with the wordmark wallpaper](preview.png)
 
-![Pine Ivory Mosaic — desktop preview with the logo wallpaper](preview-logo.png)
-
 ## Install
 
 For **Omarchy 4 with Omarchy Shell**:
