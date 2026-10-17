@@ -2,9 +2,9 @@
 
 Deep pine mosaic tiles, warm ivory motifs, and sage interface accents. A dark theme for Omarchy.
 
-![Pine Ivory Mosaic — desktop preview with the logo wallpaper](preview.png)
+![Pine Ivory Mosaic — desktop preview with the wordmark wallpaper](preview.png)
 
-![Pine Ivory Mosaic — desktop preview with the wordmark wallpaper](preview-wordmark.png)
+![Pine Ivory Mosaic — desktop preview with the logo wallpaper](preview-logo.png)
 
 ## Install
 
@@ -19,16 +19,16 @@ Use `omarchy theme bg next` to switch between the logo and wordmark wallpapers.
 ## The theme
 
 - A continuous mosaic floor with two Omarchy motifs: logo and wordmark.
-- A transparent top bar that blends into the tiled background.
+- A top bar that follows your Omarchy bar setting: transparent, it blends into the tiled background; solid, it matches the windows.
 - Solid dark windows, menus, notifications, and lock screen.
-- Coordinated terminal and editor colors, GTK 3 / GTK 4 styling, and Adwaita icons.
+- Coordinated terminal and editor colors, GTK 3 / GTK 4 styling, and sage Yaru folder icons.
 - Application configs derive from `colors.toml` through Omarchy templates.
 
 ## Wallpapers
 
 Two **3840 × 2160** wallpapers are included.
 
-[Logo](backgrounds/01-pine-ivory-mosaic-logo.png) · [Wordmark](backgrounds/02-pine-ivory-mosaic-wordmark.png)
+[Wordmark](backgrounds/01-pine-ivory-mosaic-wordmark.png) · [Logo](backgrounds/02-pine-ivory-mosaic-logo.png)
 
 ## License
 
